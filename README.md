@@ -3,9 +3,9 @@ A Google Sheets function to get movie ratings from the Movie Database (TMDB)
 
 ## Getting Started
 
-Get an API key for TMDB by following [these Instructions](https://developers.themoviedb.org/3/getting-started/introduction)
+Get an API key for TMDB by following [these instructions](https://developers.themoviedb.org/3/getting-started/introduction).
 
-Go to the Google Sheet in which you want to use the function and open the Apps Script in the Extentions tab.
+Go to the Google Sheet in which you want to use the function and open the Apps Script in the Extensions tab.
 <img src="https://i.imgur.com/cQnOwp4.png" alt="extentions" width="400">
 
 Paste the contents of script.js in the text editor and add your API key.
